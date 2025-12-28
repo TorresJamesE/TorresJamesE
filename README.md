@@ -1,7 +1,7 @@
 - 👋 Hi, I’m James E. Torres!
-- 👀 I’m interested in video games, anime, wrasslin', D & D, reading, ~~singing~~ reciting songs, and learning about new languages/tech/tools/software!
-- 🌱 I’m currently learning React!
-- 💞️ I’m looking to collaborate on all the things!
+- 👀 I am a Software Engineer on a forever journey to build great things.
+- 🌱 I like video games, reading, calisthenics, learning new programming languages and frameworks.
+- 💞️ Happy to collaborate. Drop me a message!
 
 <!---
 TorresJamesE/TorresJamesE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
